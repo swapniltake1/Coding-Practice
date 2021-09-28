@@ -1,0 +1,15 @@
+class EX3
+{
+    public static void main(String[] args)
+{
+boolean a=true;
+int b=150000;
+long c=+0000000000;
+
+char f='y';
+String g="Swapnil";
+System.out.println("A val is"+a);
+System.out.printf("a val %b\n",a);
+
+  }
+    }
